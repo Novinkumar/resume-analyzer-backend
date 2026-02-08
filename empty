@@ -1,0 +1,5 @@
+# Windows
+type nul > uploads/.gitkeep
+
+# Mac/Linux
+touch uploads/.gitkeep
